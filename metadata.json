@@ -1,0 +1,6 @@
+{
+  "name": "Civil Calculator",
+  "description": "Professional construction calculator for concrete volume, rebar weight, and aggregate requirements, supporting metric/imperial units and offline calculation histories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
